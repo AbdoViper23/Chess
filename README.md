@@ -1,4 +1,4 @@
-This is Chess game With C# programming languages ans GUI
+This is Chess game With C# programming languages and GUI
 with simple code
 
 **It contains lighting for available moves for all pieces
